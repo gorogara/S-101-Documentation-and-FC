@@ -41262,7 +41262,7 @@
 			<S100FC:definition>The Text Placement feature is used in association with the Feature Name attribute or a light description to optimize text positioning in ECDIS.</S100FC:definition>
 			<S100FC:code>TextPlacement</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>606</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>637</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">

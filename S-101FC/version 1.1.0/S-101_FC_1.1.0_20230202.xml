@@ -7756,7 +7756,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Height</S100FC:name>
-			<S100FC:definition>The value of the vertical distance to the highest point of the object, measured from a specified vertical datum.</S100FC:definition>
+			<S100FC:definition>The value of the vertical distance to the highest point of the feature, measured from a specified vertical datum.</S100FC:definition>
 			<S100FC:code>height</S100FC:code>
 			<S100FC:remarks>Height must not be used for floating objects.</S100FC:remarks>
 			<S100FC:alias>HEIGHT</S100FC:alias>

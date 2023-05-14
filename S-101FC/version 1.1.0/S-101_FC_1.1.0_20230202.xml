@@ -13130,10 +13130,10 @@
 		</S100FC:S100_FC_ComplexAttribute>
 		<S100FC:S100_FC_ComplexAttribute>
 			<S100FC:name>Value of Local Magnetic Anomaly</S100FC:name>
-			<S100FC:definition>	The value of the deviation from the normal magnetic variation and where required its direction</S100FC:definition>
+			<S100FC:definition>The value of the deviation from the normal magnetic variation and where required its direction</S100FC:definition>
 			<S100FC:code>valueOfLocalMagneticAnomaly</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>260</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1107</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">

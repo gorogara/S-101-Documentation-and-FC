@@ -28067,7 +28067,7 @@
 			<S100FC:code>RangeSystem</S100FC:code>
 			<S100FC:alias>C_AGGR</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>97</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>631</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">

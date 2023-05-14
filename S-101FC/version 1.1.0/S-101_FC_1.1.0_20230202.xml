@@ -11929,6 +11929,7 @@
 			<S100FC:name>Minimum Berth Depth</S100FC:name>
 			<S100FC:definition>The least depth of the body of water at the berth or in a berth pocket adjacent to the berth.</S100FC:definition>
 			<S100FC:code>minimumBerthDepth</S100FC:code>
+			<S100FC:remarks>The minimum depth is measured from a specified sounding datum. A berth pocket is the body of water at a berth or anchor berth, of adequate dimensions to allow a vessel to make fast to the shore, mooring buoys, berthing dolphins or to anchor.</S100FC:remarks>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>1019</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

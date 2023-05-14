@@ -8312,9 +8312,8 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Reference Direction</S100FC:name>
-			<S100FC:definition>A direction used as a basis for comparison of other direction(IHO Hydrographic Dictionary, S-32).</S100FC:definition>
+			<S100FC:definition>A direction used as a basis for comparison of other directions.</S100FC:definition>
 			<S100FC:code>referenceDirection</S100FC:code>
-			<S100FC:remarks>No remarks.</S100FC:remarks>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>1104</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

@@ -11155,9 +11155,9 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Value of Maximum Range</S100FC:name>
-			<S100FC:definition>The extreme distance at which an feature can be seen or a signal detected.</S100FC:definition>
+			<S100FC:definition>The extreme distance at which a feature can be seen or a signal detected.</S100FC:definition>
 			<S100FC:code>valueOfMaximumRange</S100FC:code>
-			<S100FC:remarks>Does not apply to lights where the 'value of nominal range' should be used.</S100FC:remarks>
+			<S100FC:remarks>Does not apply to lights where the "value of nominal range" should be used.</S100FC:remarks>
 			<S100FC:alias>VALMXR</S100FC:alias>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>900</S100FC:sourceIdentifier>

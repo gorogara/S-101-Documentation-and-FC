@@ -7128,7 +7128,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Elevation</S100FC:name>
-			<S100FC:definition>The altitude of the ground level of an object, measured from a specified vertical datum.</S100FC:definition>
+			<S100FC:definition>The altitude of the ground level of a feature, measured from a specified vertical datum.</S100FC:definition>
 			<S100FC:code>elevation</S100FC:code>
 			<S100FC:alias>ELEVAT</S100FC:alias>
 			<S100FC:definitionReference>

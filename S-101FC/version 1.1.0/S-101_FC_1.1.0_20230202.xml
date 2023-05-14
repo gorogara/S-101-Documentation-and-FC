@@ -11781,6 +11781,7 @@
 			<S100FC:name>Category of Cargo</S100FC:name>
 			<S100FC:definition>Classification of the different types of cargo that a ship may be carrying.</S100FC:definition>
 			<S100FC:code>categoryOfCargo</S100FC:code>
+			<S100FC:remarks>If item 7 is used, the nature of dangerous or hazardous cargoes can be amplified with category of dangerous or hazardous cargo.</S100FC:remarks>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>401</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

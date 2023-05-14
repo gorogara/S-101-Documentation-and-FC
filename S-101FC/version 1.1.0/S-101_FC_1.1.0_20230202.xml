@@ -29449,7 +29449,7 @@
 			<S100FC:remarks>A complete Deep Water route (DW) system are composed of the features Deep Water Route Centreline, Deep Water Route Part and any associated navigation aids that comprise a complex Deep Water Route system.</S100FC:remarks>
 			<S100FC:alias>C_AGGR</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>290</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>634</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">

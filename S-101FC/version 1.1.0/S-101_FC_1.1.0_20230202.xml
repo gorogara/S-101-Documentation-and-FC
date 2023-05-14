@@ -27553,7 +27553,7 @@
 			<S100FC:code>OffshoreProductionArea</S100FC:code>
 			<S100FC:alias>OSPARE</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>280</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>630</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">

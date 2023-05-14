@@ -5987,7 +5987,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Fish Aggregating Device</S100FC:label>
-					<S100FC:definition>A fish aggregating (or aggregation) device (FAD) is a man-made object used to attract ocean going pelagic fish such as marlin, tuna and mahi-mahi (dolphin fish). They usually consist of buoys or floats tethered to the ocean floor with concrete blocks.</S100FC:definition>
+					<S100FC:definition>A fish aggregating (or aggregation) device (FAD) is a man-made object used to attract ocean going pelagic fish such as marlin, tuna and mahi-mahi (dolphin fish). They usually consist of buoys or floats tethered to the ocean floor with concrete blocks or adrift.</S100FC:definition>
 					<S100FC:code>59</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>739</S100FC:sourceIdentifier>

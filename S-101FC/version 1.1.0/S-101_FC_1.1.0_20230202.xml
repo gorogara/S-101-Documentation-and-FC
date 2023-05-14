@@ -11632,10 +11632,10 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Emergency Wreck Marking</S100FC:label>
-					<S100FC:definition>	A mark used to indicate the existence of a recent wreck.</S100FC:definition>
+					<S100FC:definition>A mark used to indicate the existence of a recent wreck.</S100FC:definition>
 					<S100FC:code>12</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>2908</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3440</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>

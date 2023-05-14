@@ -28391,7 +28391,7 @@
 			<S100FC:remarks>A fairway system is composed of two or more Fairway features that comprise a complex fairway routeing system, for instance a long fairway comprising several bends.</S100FC:remarks>
 			<S100FC:alias>C_AGGR</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>284</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>632</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">

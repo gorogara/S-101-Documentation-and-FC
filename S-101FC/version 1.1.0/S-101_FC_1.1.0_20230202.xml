@@ -8290,7 +8290,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Linkage</S100FC:name>
-			<S100FC:definition>Location (address) for on-line access using a URL/URI address or similar addressing scheme.</S100FC:definition>
+			<S100FC:definition>Location (address) for online access using a URL/URI address or similar addressing scheme.</S100FC:definition>
 			<S100FC:code>linkage</S100FC:code>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>124</S100FC:sourceIdentifier>

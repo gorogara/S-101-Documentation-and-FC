@@ -11595,11 +11595,11 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Preferred Channel to Starboard</S100FC:label>
-					<S100FC:definition>At a point where a channel divides, when proceeding in the conventional direction of buoyage, the preferred channel (or primary route) is indicated by a modified starboard-hand lateral mark.</S100FC:definition>
+					<S100FC:label>Starboard Lateral (IALA B)</S100FC:label>
+					<S100FC:definition>Indicates the starboard boundary of a navigational channel or suggested route when proceeding in the “conventional direction of buoyage” in the IALA B system.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>1221</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3444</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>

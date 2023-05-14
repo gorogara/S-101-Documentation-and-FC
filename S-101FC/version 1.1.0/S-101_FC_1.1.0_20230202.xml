@@ -3449,7 +3449,7 @@
 			<S100FC:code>categoryOfPylon</S100FC:code>
 			<S100FC:alias>CATPYL</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>49</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1108</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>

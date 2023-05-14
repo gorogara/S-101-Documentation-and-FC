@@ -11577,11 +11577,11 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Starboard Lateral</S100FC:label>
-					<S100FC:definition>Indicates the starboard boundary of a navigational channel or suggested route when proceeding in the conventional direction of buoyage.</S100FC:definition>
+					<S100FC:label>Starboard Lateral (IALA A)</S100FC:label>
+					<S100FC:definition>Indicates the starboard boundary of a navigational channel or suggested route when proceeding in the “conventional direction of buoyage” in the IALA A system.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>1219</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3442</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>

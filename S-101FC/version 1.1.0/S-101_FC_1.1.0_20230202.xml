@@ -9839,7 +9839,7 @@
 			<S100FC:code>signalFrequency</S100FC:code>
 			<S100FC:alias>SIGFRQ</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>962</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1105</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>integer</S100FC:valueType>

@@ -11527,7 +11527,7 @@
 			<S100FC:definition>A purpose of a virtual AIS Aid to Navigation.</S100FC:definition>
 			<S100FC:code>virtualAISAidToNavigationType</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>983</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1113</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>

@@ -17457,7 +17457,7 @@
 				<S100FC:role ref="supports" />
 				<S100FC:featureType ref="Daymark" />
 			</S100FC:featureBinding>
-		<S100FC:featureBinding roleType="composition">
+			<S100FC:featureBinding roleType="composition">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="true" infinite="true" />

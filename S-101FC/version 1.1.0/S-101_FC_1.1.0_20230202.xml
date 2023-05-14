@@ -7265,7 +7265,7 @@
 			<S100FC:name>Flare Bearing</S100FC:name>
 			<S100FC:definition>The bearing about which the light flare symbol is rotated to be displayed in ECDIS.</S100FC:definition>
 			<S100FC:code>flareBearing</S100FC:code>
-			<S100FC:remarks>The initial flare bearing is calculated by ENC production software systems. The attribute flare bearing may also be populated manually to cartographically align the light flare along, for example, a transit or leading line (noting that the in such cases the bearing to be encoded will be the reciprocal (+/- 180 degrees) of the bearing encoded for the navigational line).</S100FC:remarks>
+			<S100FC:remarks>The initial flare bearing is calculated by ENC production software systems.  The attribute flare bearing may also be populated manually to cartographically align the light flare along, for example, a transit or leading line (noting that the in such cases the bearing to be encoded will be the reciprocal (+/- 180 degrees) of the bearing encoded for the navigational line).</S100FC:remarks>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>922</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

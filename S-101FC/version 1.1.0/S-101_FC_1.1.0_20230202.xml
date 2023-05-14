@@ -9353,7 +9353,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Radius</S100FC:name>
-			<S100FC:definition>The vector extending from the centre to the periphery of a circular or spherical object.</S100FC:definition>
+			<S100FC:definition>The vector extending from the centre to the periphery of a circular or spherical feature.</S100FC:definition>
 			<S100FC:code>radius</S100FC:code>
 			<S100FC:alias>RADIUS</S100FC:alias>
 			<S100FC:definitionReference>

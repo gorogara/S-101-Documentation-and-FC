@@ -12838,7 +12838,7 @@
 		</S100FC:S100_FC_ComplexAttribute>
 		<S100FC:S100_FC_ComplexAttribute>
 			<S100FC:name>Survey Date Range</S100FC:name>
-			<S100FC:definition>	The complex attribute describes the period of the hydrographic survey, as the time between its sub-attributes.</S100FC:definition>
+			<S100FC:definition>The complex attribute describes the period of the hydrographic survey, as the time between its sub-attributes.</S100FC:definition>
 			<S100FC:code>surveyDateRange</S100FC:code>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>795</S100FC:sourceIdentifier>

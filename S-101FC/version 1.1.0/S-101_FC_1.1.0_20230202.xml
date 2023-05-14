@@ -11214,7 +11214,7 @@
 			<S100FC:alias>Datum for Sounding Reduction</S100FC:alias>
 			<S100FC:alias>Datum for Heights</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>193</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>996</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>

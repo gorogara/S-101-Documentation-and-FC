@@ -30276,7 +30276,7 @@
 			<S100FC:code>TrafficSeparationScheme</S100FC:code>
 			<S100FC:alias>C_AGGR</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>299</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>635</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">

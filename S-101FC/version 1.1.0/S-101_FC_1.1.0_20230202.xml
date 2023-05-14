@@ -9806,7 +9806,6 @@
 			<S100FC:name>Sector Extension</S100FC:name>
 			<S100FC:definition>An indication that the default radius of a sector arc is to be extended by 5mm.</S100FC:definition>
 			<S100FC:code>sectorExtension</S100FC:code>
-			<S100FC:remarks>The sector extension is calculated by ENC production software systems.</S100FC:remarks>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>991</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

@@ -14439,7 +14439,7 @@
 			<S100FC:definition>Update Information metadata feature is used to represent a change to the information shown.</S100FC:definition>
 			<S100FC:code>UpdateInformation</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>194</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>626</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">

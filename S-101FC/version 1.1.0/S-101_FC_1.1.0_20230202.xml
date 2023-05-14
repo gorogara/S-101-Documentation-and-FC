@@ -13148,6 +13148,10 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
+				<S100FC:permittedValues>
+					<S100FC:value>5</S100FC:value>
+					<S100FC:value>13</S100FC:value>
+				</S100FC:permittedValues>
 				<S100FC:attribute ref="referenceDirection" />
 			</S100FC:subAttributeBinding>
 		</S100FC:S100_FC_ComplexAttribute>

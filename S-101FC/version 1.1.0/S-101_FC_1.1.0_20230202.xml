@@ -9818,7 +9818,7 @@
 			<S100FC:definition>A sector is the part of a circle between two straight lines drawn from the centre to the circumference. Sector line length specifies the displayed length of the line, in ground units, defining the limit of the sector.</S100FC:definition>
 			<S100FC:code>sectorLineLength</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>960</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1111</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>

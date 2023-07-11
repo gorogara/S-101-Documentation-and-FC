@@ -6835,7 +6835,7 @@
 			<S100FC:code>dateEnd</S100FC:code>
 			<S100FC:remarks>The Date End should be encoded using 4 digits for the calendar year (YYYY), 2 digits for the month (MM) (for example April = 04) and 2 digits for the day (DD). When no specific month and/or day is required/known, indication of the month and/or day is omitted, and replaced with dashes (-). When no specific year is required (that is, the event or date range ends at the same time each year) the following two cases may be considered:- same day each year: ----MMDD- same month each year: ----MM--This conforms to ISO 8601: 2004. Date End indicates the latest date of an event or the end of a date range. It is used to indicate the end of a fixed date range, the end of a periodic date range, or the removal or cancellation of a feature at a specific date in the future.</S100FC:remarks>
 			<S100FC:alias>DATEND</S100FC:alias>
-			<S100FC:alias>PERENC</S100FC:alias>
+			<S100FC:alias>PEREND</S100FC:alias>
 			<S100FC:alias>SUREND</S100FC:alias>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>790</S100FC:sourceIdentifier>

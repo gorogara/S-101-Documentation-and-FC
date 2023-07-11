@@ -6860,7 +6860,7 @@
 			<S100FC:remarks>The Date Start should be encoded using 4 digits for the calendar year (YYYY), 2 digits for the month (MM) (for example April = 04) and 2 digits for the day (DD). When no specific month and/or day is required/known, indication of the month and/or day is omitted, and replaced with dashes (-). When no specific year is required (that is, the event or date range ends at the same time each year) the following two cases may be considered:- same day each year: ----MMDD- same month each year: ----MM--This conforms to ISO 8601: 2004. Date Start indicates the earliest date of an event or the start of a date range. It is used to indicate the start of a fixed date range, the start of a periodic date range, or the deployment or implementation of a feature at a specific date in the future.</S100FC:remarks>
 			<S100FC:alias>DATSTA</S100FC:alias>
 			<S100FC:alias>PERSTA</S100FC:alias>
-			<S100FC:alias>SUREND</S100FC:alias>
+			<S100FC:alias>SURSTA</S100FC:alias>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>792</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

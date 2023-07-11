@@ -28241,7 +28241,7 @@
 				<S100FC:role ref="positions" />
 				<S100FC:featureType ref="TextPlacement" />
 			</S100FC:featureBinding>
-			<S100FC:featureBinding roleType="association">
+			<S100FC:featureBinding roleType="aggregation">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>

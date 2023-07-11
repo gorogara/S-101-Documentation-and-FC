@@ -13488,7 +13488,7 @@
 			<S100FC:role ref="defines" />
 			<S100FC:role ref="definedFor" />
 		</S100FC:S100_FC_InformationAssociation>
-		<S100FC:S100_FC_InformationAssociation>
+		<S100FC:S100_FC_InformationAssociation isAbstract="false">
 			<S100FC:name>Spatial Association</S100FC:name>
 			<S100FC:definition />
 			<S100FC:code>SpatialAssociation</S100FC:code>

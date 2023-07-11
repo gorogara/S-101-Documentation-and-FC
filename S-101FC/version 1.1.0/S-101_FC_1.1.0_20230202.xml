@@ -34073,7 +34073,7 @@
 				<S100FC:featureType ref="WindTurbine" />
 				<S100FC:featureType ref="Wreck" />
 			</S100FC:featureBinding>
-			<S100FC:featureBinding roleType="association">
+			<S100FC:featureBinding roleType="composition">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="true" infinite="true" />

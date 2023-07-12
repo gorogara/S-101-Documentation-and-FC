@@ -740,7 +740,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Fibre Optic Cable</S100FC:label>
-					<S100FC:definition>A cable made of glass or plastic fiber designed to guide light along its length, fibre optic cables are widely used in fiber-optic communication, which permits transmission over longer distances and at higher data rates than other forms of communication.</S100FC:definition>
+					<S100FC:definition>A cable made of glass or plastic fibre designed to guide light along its length, fibre optic cables are widely used in fibre-optic communication, which permits transmission over longer distances and at higher data rates than other forms of communication.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>65</S100FC:sourceIdentifier>
@@ -901,7 +901,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Mangrove</S100FC:label>
-					<S100FC:definition>One of several genera of tropical trees or shrubs which produce many prop roots and grow along low lying coasts into shallow water.</S100FC:definition>
+					<S100FC:definition>One of several genera of tropical trees or shrubs which produce many prop roots and grow along low-lying coasts into shallow water.</S100FC:definition>
 					<S100FC:code>7</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>77</S100FC:sourceIdentifier>
@@ -919,7 +919,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Ice Coast</S100FC:label>
-					<S100FC:definition>A vertical cliff forming the seaward edge of an ice shelf, ranging in height from 2m to 50m or more above sea level.</S100FC:definition>
+					<S100FC:definition>A vertical cliff forming the seaward edge of an ice shelf, ranging in height from 2 metres to 50 metres or more above sea level.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>79</S100FC:sourceIdentifier>
@@ -2019,7 +2019,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Cay</S100FC:label>
-					<S100FC:definition>A small insular feature usually with scant vegetation usually of sand or coral. Often applied to smaller coral shoals.</S100FC:definition>
+					<S100FC:definition>A small insular feature usually with scant vegetation; usually of sand or coral. Often applied to smaller coral shoals.</S100FC:definition>
 					<S100FC:code>20</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>182</S100FC:sourceIdentifier>
@@ -2827,7 +2827,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Template</S100FC:label>
-					<S100FC:definition>A structure placed on the sea floor below a drilling rig to guide the drill.</S100FC:definition>
+					<S100FC:definition>A structure placed on the seafloor below a drilling rig to guide the drill.</S100FC:definition>
 					<S100FC:code>15</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>323</S100FC:sourceIdentifier>
@@ -2836,7 +2836,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Manifold</S100FC:label>
-					<S100FC:definition>A large steel structure up to 20 metres in height above the sea floor, or a steel frame secured to the sea floor with piles to anchor the end of a submarine pipeline, for delivery to a production platform.</S100FC:definition>
+					<S100FC:definition>A large steel structure up to 20 metres in height above the seafloor, or a steel frame secured to the seafloor with piles to anchor the end of a submarine pipeline, for delivery to a production platform.</S100FC:definition>
 					<S100FC:code>16</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>324</S100FC:sourceIdentifier>
@@ -2899,7 +2899,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Mangrove</S100FC:label>
-					<S100FC:definition>One of several genera of tropical trees or shrubs which produce many prop roots and grow along low lying coasts into shallow water.</S100FC:definition>
+					<S100FC:definition>One of several genera of tropical trees or shrubs which produce many prop roots and grow along low-lying coasts into shallow water.</S100FC:definition>
 					<S100FC:code>23</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>77</S100FC:sourceIdentifier>
@@ -2948,7 +2948,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Articulated Loading Platform</S100FC:label>
-					<S100FC:definition>A metal lattice tower, buoyant at one end and attached at the other by a universal joint to a concrete filled base on the sea bed. The platform may be fitted with a helicopter platform, emergency accommodation and hawser/hose retrieval.</S100FC:definition>
+					<S100FC:definition>A metal lattice tower, buoyant at one end and attached at the other by a universal joint to a concrete filled base on the seabed. The platform may be fitted with a helicopter platform, emergency accommodation and hawser/hose retrieval.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>333</S100FC:sourceIdentifier>
@@ -2957,7 +2957,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Single Anchor Leg Mooring</S100FC:label>
-					<S100FC:definition>A rigid frame or tube with a buoyancy device at its upper end , secured at its lower end to a universal joint on a large steel or concrete base resting on the sea bed, and at its upper end to a mooring buoy by a chain or wire.</S100FC:definition>
+					<S100FC:definition>A rigid frame or tube with a buoyancy device at its upper end, secured at its lower end to a universal joint on a large steel or concrete base resting on the seabed, and at its upper end to a mooring buoy by a chain or wire.</S100FC:definition>
 					<S100FC:code>5</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>334</S100FC:sourceIdentifier>
@@ -2966,7 +2966,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Mooring Tower</S100FC:label>
-					<S100FC:definition>A platform secured to the sea bed and surmounted by a turntable to which ships moor.</S100FC:definition>
+					<S100FC:definition>A platform secured to the seabed and surmounted by a turntable to which ships moor.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>335</S100FC:sourceIdentifier>
@@ -2984,7 +2984,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Floating Production, Storage and Off-Loading Vessel</S100FC:label>
-					<S100FC:definition>An offshore oil/gas facility consisting of a moored tanker/barge by which the product is extracted, stored and exported.</S100FC:definition>
+					<S100FC:definition>An offshore facility consisting of a moored tanker/barge by which the product is extracted, stored and exported.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>337</S100FC:sourceIdentifier>
@@ -3002,7 +3002,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Navigation, Communication and Control Buoy</S100FC:label>
-					<S100FC:definition>A floating structure with control room, power and storage facilities, attached to the sea bed by a flexible pipeline and cables.</S100FC:definition>
+					<S100FC:definition>A floating structure with control room, power and storage facilities, attached to the seabed by a flexible pipeline and cables.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>339</S100FC:sourceIdentifier>
@@ -3140,7 +3140,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Post</S100FC:label>
-					<S100FC:definition>A vertical piece of timber, metal or concrete forced into the earth or sea bed.</S100FC:definition>
+					<S100FC:definition>A vertical piece of timber, metal or concrete forced into the earth or seabed.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>349</S100FC:sourceIdentifier>
@@ -3149,7 +3149,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Tripodal</S100FC:label>
-					<S100FC:definition>A single structure comprising 3 or more piles held together (sections of heavy timber, steel or concrete), and forced into the earth or sea bed.</S100FC:definition>
+					<S100FC:definition>A single structure comprising 3 or more piles held together (sections of heavy timber, steel or concrete), and forced into the earth or seabed.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>350</S100FC:sourceIdentifier>
@@ -3216,7 +3216,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Pilot Comes Out from Shore</S100FC:label>
-					<S100FC:definition>Pilot embarks from a vessel or disembarks on a vessel which comes out from the shore on request.</S100FC:definition>
+					<S100FC:definition>Pilot embarks from a vessel or disembarks to a vessel which comes out from the shore on request.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>356</S100FC:sourceIdentifier>
@@ -3283,7 +3283,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Bubble Curtain</S100FC:label>
-					<S100FC:definition>A high pressure sub-surface pipeline (usually on the sea floor) with holes emitting a curtain of air bubbles. Its uses include: the prevention of acoustic transmission through the water; preventing the spread of surface debris or floating liquids; controlling the movement of fish.</S100FC:definition>
+					<S100FC:definition>A high pressure sub-surface pipeline (usually on the seafloor) with holes emitting a curtain of air bubbles. Its uses include: the prevention of acoustic transmission through the water; preventing the spread of surface debris or floating liquids; controlling the movement of fish.</S100FC:definition>
 					<S100FC:code>7</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>362</S100FC:sourceIdentifier>
@@ -3604,7 +3604,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Differential GNSS</S100FC:label>
-					<S100FC:definition>A radiobeacon transmitting DGPS correction signals.</S100FC:definition>
+					<S100FC:definition>Differential GNSS is implemented by placing a GNSS monitor receiver at a precisely known location. Instead of computing a navigation fix, the monitor determines the range error to every GNSS satellite it can track. These ranging errors are then transmitted to local users where they are applied as corrections before computing the navigation result.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>385</S100FC:sourceIdentifier>
@@ -3622,7 +3622,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Chaika</S100FC:label>
-					<S100FC:definition>Chaika is a low frequency electronic position fixing system using pulsed transmissions at 100 Khz.</S100FC:definition>
+					<S100FC:definition>A low frequency electronic position fixing system using pulsed transmissions at 100 Khz.</S100FC:definition>
 					<S100FC:code>14</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>387</S100FC:sourceIdentifier>
@@ -3783,7 +3783,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Degaussing Range</S100FC:label>
-					<S100FC:definition>An area, usually about two cables diameter, within which ships' magnetic fields may be measured; sensing instruments and cables are installed on the sea bed in the range and there are cables leading from the range to a control position ashore.</S100FC:definition>
+					<S100FC:definition>An area, usually about two cables diameter, within which ships' magnetic fields may be measured; sensing instruments and cables are installed on the seabed in the range and there are cables leading from the range to a control position ashore.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>402</S100FC:sourceIdentifier>
@@ -3873,7 +3873,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Ecological Reserve</S100FC:label>
-					<S100FC:definition>A tract of land managed so as to preserve the relation of plants and living creatures to each other and to their surroundings.</S100FC:definition>
+					<S100FC:definition>A tract of land or water managed so as to preserve the relation of plants and living creatures to each other and to their surroundings.</S100FC:definition>
 					<S100FC:code>23</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>412</S100FC:sourceIdentifier>
@@ -4034,7 +4034,7 @@
 			<S100FC:listedValues>
 				<S100FC:listedValue>
 					<S100FC:label>Aeroplane Runway</S100FC:label>
-					<S100FC:definition>A level stretch of land where aeroplanes take off and land.</S100FC:definition>
+					<S100FC:definition>A defined rectangular area, on a land aerodrome, prepared for the landing and take-off run of aircraft along its length.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>427</S100FC:sourceIdentifier>
@@ -4149,7 +4149,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Basin</S100FC:label>
-					<S100FC:definition>A depression of the sea floor more or less equidimensional in plan and of variable extent.</S100FC:definition>
+					<S100FC:definition>A depression of the seafloor more or less equidimensional in plan and of variable extent.</S100FC:definition>
 					<S100FC:code>7</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>485</S100FC:sourceIdentifier>
@@ -4302,7 +4302,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Abyssal Hills</S100FC:label>
-					<S100FC:definition>A tract, on occasion extensive, of low (100 - 500m) elevations on the deep sea floor.</S100FC:definition>
+					<S100FC:definition>A tract, on occasion extensive, of low (100 - 500m) elevations on the deep seafloor.</S100FC:definition>
 					<S100FC:code>24</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>502</S100FC:sourceIdentifier>
@@ -4320,7 +4320,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Archipelagic Apron</S100FC:label>
-					<S100FC:definition>A gentle slope with a generally smooth surface of the sea floor, characteristically found around groups of islands or seamounts.</S100FC:definition>
+					<S100FC:definition>A gentle slope with a generally smooth surface of the seafloor, characteristically found around groups of islands or seamounts.</S100FC:definition>
 					<S100FC:code>26</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>504</S100FC:sourceIdentifier>
@@ -4338,7 +4338,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Continental Margin</S100FC:label>
-					<S100FC:definition>The zone, generally consisting of shelf, slope and rise, separating the continent from the deep sea floor or abyssal plain.</S100FC:definition>
+					<S100FC:definition>The zone, generally consisting of shelf, slope and rise, separating the continent from the deep seafloor or abyssal plain.</S100FC:definition>
 					<S100FC:code>28</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>506</S100FC:sourceIdentifier>
@@ -4491,7 +4491,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Seamount Chain</S100FC:label>
-					<S100FC:definition>Several seamounts in linear or arcuate alignment. Also called: seamounts.</S100FC:definition>
+					<S100FC:definition>Several seamounts in linear or arcuate alignment.</S100FC:definition>
 					<S100FC:code>45</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>523</S100FC:sourceIdentifier>
@@ -4500,7 +4500,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Shelf-Edge</S100FC:label>
-					<S100FC:definition>The line along which there is a marked increase in slope at the seaward margin of a shelf. Also called shelf break.</S100FC:definition>
+					<S100FC:definition>The line along which there is a marked increase in slope at the seaward margin of a shelf.</S100FC:definition>
 					<S100FC:code>46</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>524</S100FC:sourceIdentifier>
@@ -4711,7 +4711,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Ramp</S100FC:label>
-					<S100FC:definition>(1) A sloping structure that can either be used, as a landing place, at variable water levels, for small vessels, landing ships, or a ferry boat, or for hauling a cradle carrying a vessel. (2) An accumulation of snow that forms an inclined plane between land or land ice elements and sea ice or ice shelf. Also called drift ice foot.</S100FC:definition>
+					<S100FC:definition>(1) A sloping structure which may include rails that can either be used, as a landing place, at variable water levels, for small vessels, landing ships, or a ferry boat, or for hauling a cradle carrying a vessel. (2) An accumulation of snow that forms an inclined plane between land or land ice elements and sea ice or ice shelf. Also called drift ice foot.</S100FC:definition>
 					<S100FC:code>12</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>545</S100FC:sourceIdentifier>
@@ -4971,7 +4971,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Time</S100FC:label>
-					<S100FC:definition>An accurate signal marking a specified time or time interval. It is used primarily for determining errors of timepieces. Such signals are usually sent from an observatory by radio or telegraph, but visual signals are used at some ports.</S100FC:definition>
+					<S100FC:definition>An accurate signal marking a specified time or time interval. It is used primarily for determining errors of timepieces. Such signals are usually sent from an observatory by radio, but visual signals are used at some ports.</S100FC:definition>
 					<S100FC:code>9</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>571</S100FC:sourceIdentifier>
@@ -4998,7 +4998,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Tide Gauge</S100FC:label>
-					<S100FC:definition>A device for measuring the height of tide. A graduated staff in a sheltered area where visual observations can be made or it may consist of an elaborate recording instrument making a continuous graphic record of tide height against time. Such an instrument is usually actuated by a float in a pipe communicating with the sea through a small hole which filters out shorter waves.</S100FC:definition>
+					<S100FC:definition>A device for measuring the height of tide. A graduated staff in a sheltered area where visual observations can be made; or it may consist of an elaborate recording instrument making a continuous graphic record of tide height against time. Such an instrument is usually actuated by a float in a pipe communicating with the sea through a small hole which filters out shorter waves.</S100FC:definition>
 					<S100FC:code>12</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>574</S100FC:sourceIdentifier>
@@ -5897,7 +5897,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Seaplane Landing Mark</S100FC:label>
-					<S100FC:definition>A mark indicating an area where sea-planes land.</S100FC:definition>
+					<S100FC:definition>A mark indicating an area where seaplanes land.</S100FC:definition>
 					<S100FC:code>49</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>729</S100FC:sourceIdentifier>
@@ -6053,7 +6053,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Likely to Change and Significant Shoaling Expected</S100FC:label>
-					<S100FC:definition>Continuous or frequent change (for example river siltation, sand waves, seasonal storms, ice bergs, etc) that is likely to result in new significant shoaling.</S100FC:definition>
+					<S100FC:definition>Continuous or frequent change (for example river siltation, sand waves, seasonal storms, icebergs, etc) that is likely to result in new significant shoaling.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1242</S100FC:sourceIdentifier>
@@ -6062,7 +6062,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Likely to Change But Significant Shoaling Not Expected</S100FC:label>
-					<S100FC:definition>Continuous or frequent change (for example sand wave shift, seasonal storms, ice bergs, etc) that is not likely to result in new significant shoaling.</S100FC:definition>
+					<S100FC:definition>Continuous or frequent change (for example sand wave shift, seasonal storms, icebergs, etc) that is not likely to result in new significant shoaling.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1243</S100FC:sourceIdentifier>
@@ -6290,7 +6290,7 @@
 			<S100FC:listedValues>
 				<S100FC:listedValue>
 					<S100FC:label>Breakers</S100FC:label>
-					<S100FC:definition>Waves breaking on the shore, over a reef, etc. Breakers may be roughly classified into three kinds, although the categories may overlap: spilling breakers break gradually over a considerable distance; plunging breakers tend to curl over and break with a crash; and surging breakers peak up, but then instead of spilling or plunging they surge up on the beach face. The French word 'brisant' is also used for the obstacle causing the breaking of the wave.</S100FC:definition>
+					<S100FC:definition>A wave breaking on the shore, over a reef, etc. Breakers may be roughly classified into three kinds, although the categories may overlap: spilling breakers break gradually over a considerable distance; plunging breakers tend to curl over and break with a crash; and surging breakers peak up, but then instead of spilling or plunging they surge up on the beach face. The French word 'brisant' is also used for the obstacle causing the breaking of the wave.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>762</S100FC:sourceIdentifier>
@@ -6366,7 +6366,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Sargasso</S100FC:label>
-					<S100FC:definition>A certain type of sea weed, or more generally, a large floating mass of this sea weed.</S100FC:definition>
+					<S100FC:definition>A certain type of seaweed, or more generally, a large floating mass of this seaweed.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>768</S100FC:sourceIdentifier>
@@ -6690,7 +6690,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Border Stripe</S100FC:label>
-					<S100FC:definition>A band or stripe of colour which is displayed around the outer edge of the object, which may also form a border to an inner pattern or plain colour.</S100FC:definition>
+					<S100FC:definition>A band or stripe of colour which is displayed around the outer edge of the feature, which may also form a border to an inner pattern or plain colour.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>803</S100FC:sourceIdentifier>
@@ -7483,7 +7483,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Educational Facility</S100FC:label>
-					<S100FC:definition>A building concerned with education (for example school, college, university, etc).</S100FC:definition>
+					<S100FC:definition>An establishment for teaching and learning (for example school, college, university, etc).</S100FC:definition>
 					<S100FC:code>19</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>874</S100FC:sourceIdentifier>
@@ -7992,7 +7992,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Long-Flashing</S100FC:label>
-					<S100FC:definition>A single-flashing light in which a single flash of not less than two seconds duration is regularly repeated.</S100FC:definition>
+					<S100FC:definition>A single-flashing light in which an appearance of light of not less than two seconds duration is regularly repeated.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>908</S100FC:sourceIdentifier>
@@ -8154,7 +8154,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Alternating</S100FC:label>
-					<S100FC:definition>A signal light that shows, in any given direction, two or more colours in a regularly repeated sequence with a regular periodicity.</S100FC:definition>
+					<S100FC:definition>A signal light that shows continuously, in any given direction, two or more colours in a regularly repeated sequence with a regular periodicity.</S100FC:definition>
 					<S100FC:code>28</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>926</S100FC:sourceIdentifier>
@@ -8257,7 +8257,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Visible in Line of Range</S100FC:label>
-					<S100FC:definition>Lights that must in line to be visible.</S100FC:definition>
+					<S100FC:definition>Lights that must be in line to be visible.</S100FC:definition>
 					<S100FC:code>9</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>936</S100FC:sourceIdentifier>
@@ -8391,7 +8391,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>CEVNI</S100FC:label>
-					<S100FC:definition>CEVNI (European Code for Navigation on Inland Waterways) is the European code for rivers, canals land lakes in most of Europe.</S100FC:definition>
+					<S100FC:definition>CEVNI (European Code for Navigation on Inland Waterways) is the European code for rivers, canals and land lakes in most of Europe.</S100FC:definition>
 					<S100FC:code>11</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>940</S100FC:sourceIdentifier>
@@ -8629,7 +8629,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Nature of Surface</S100FC:name>
-			<S100FC:definition>The general material which the land surface or the sea bed is composed.</S100FC:definition>
+			<S100FC:definition>The general material which the land surface or the seabed is composed.</S100FC:definition>
 			<S100FC:code>natureOfSurface</S100FC:code>
 			<S100FC:remarks>Mud, sand, stone, rock are terms used for the general description. Clay, silt, gravel, pebbles, cobbles are more specific terms related to particle size.</S100FC:remarks>
 			<S100FC:alias>NATSUR</S100FC:alias>
@@ -8852,7 +8852,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Hard</S100FC:label>
-					<S100FC:definition>Firm; usually refers to an area of the sea floor not covered by unconsolidated sediment.</S100FC:definition>
+					<S100FC:definition>Firm; usually refers to an area of the seafloor not covered by unconsolidated sediment.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>973</S100FC:sourceIdentifier>
@@ -8930,7 +8930,7 @@
 			<S100FC:listedValues>
 				<S100FC:listedValue>
 					<S100FC:label>Embarkation</S100FC:label>
-					<S100FC:definition>The place where vessels not being navigated according to a pilots instructions pick up a pilot while in transit from sea to a port or constricted waters for future navigation under pilot instructions.</S100FC:definition>
+					<S100FC:definition>The place where vessels not being navigated according to a pilot's instructions pick up a pilot while in transit from sea to a port or constricted waters for future navigation under pilot instructions.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>976</S100FC:sourceIdentifier>
@@ -8939,7 +8939,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Disembarkation</S100FC:label>
-					<S100FC:definition>The place where vessels being navigated under a pilots instructions in transit from sea to a port or constricted waters drop the pilot and proceed without being subject to pilot instructions.</S100FC:definition>
+					<S100FC:definition>The place where vessels being navigated under a pilot's instructions in transit from sea to a port or constricted waters drop the pilot and proceed without being subject to pilot instructions.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>977</S100FC:sourceIdentifier>
@@ -8948,7 +8948,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Pilot Change</S100FC:label>
-					<S100FC:definition>The place where vessels being navigated under a pilots instructions drop off the pilot and pick up a different pilot for future navigation under pilots instructions.</S100FC:definition>
+					<S100FC:definition>The place where vessels being navigated under a pilot's instructions drop off the pilot and pick up a different pilot for future navigation under pilot's instructions.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>978</S100FC:sourceIdentifier>
@@ -9208,7 +9208,7 @@
 			<S100FC:listedValues>
 				<S100FC:listedValue>
 					<S100FC:label>Approximate</S100FC:label>
-					<S100FC:definition>A position that is considered to be less than third-order accuracy, but is generally considered to be within 30.5 metres of its correct geographic location. Also may apply to an object whose position does not remain fixed.</S100FC:definition>
+					<S100FC:definition>A position that is considered to be less than third-order accuracy, but is generally considered to be within 30.5 metres of its correct geographic location. Also may apply to a feature whose position does not remain fixed.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1265</S100FC:sourceIdentifier>
@@ -9392,7 +9392,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Low Water</S100FC:label>
-					<S100FC:definition>The lowest level reached at a place by the water surface in one oscillation. Also called low tide.</S100FC:definition>
+					<S100FC:definition>The lowest level reached at a place by the water surface in one oscillation.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1012</S100FC:sourceIdentifier>
@@ -9657,7 +9657,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Drilling Prohibited</S100FC:label>
-					<S100FC:definition>An area within which excavating a hole on the sea-bottom with a drill is prohibited.</S100FC:definition>
+					<S100FC:definition>An area within which excavating a hole on the seabed with a drill is prohibited.</S100FC:definition>
 					<S100FC:code>20</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1035</S100FC:sourceIdentifier>
@@ -9666,7 +9666,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Drilling Restricted</S100FC:label>
-					<S100FC:definition>A specified area designated by an appropriate authority, within which excavating a hole on the sea-bottom with a drill is restricted in accordance with certain specified conditions.</S100FC:definition>
+					<S100FC:definition>A specified area designated by an appropriate authority, within which excavating a hole on the seabed with a drill is restricted in accordance with certain specified conditions.</S100FC:definition>
 					<S100FC:code>21</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1036</S100FC:sourceIdentifier>
@@ -9693,7 +9693,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Dragging Prohibited</S100FC:label>
-					<S100FC:definition>An area in which the dragging of anything along the bottom, e.g. bottom trawling, is prohibited.</S100FC:definition>
+					<S100FC:definition>An area in which the dragging of anything along the bottom, for example bottom trawling, is prohibited.</S100FC:definition>
 					<S100FC:code>24</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1039</S100FC:sourceIdentifier>
@@ -10152,7 +10152,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Illuminated</S100FC:label>
-					<S100FC:definition>Lit by floodlights, strip lights, etc.</S100FC:definition>
+					<S100FC:definition>Lit by flood lights, strip lights, etc.</S100FC:definition>
 					<S100FC:code>12</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1062</S100FC:sourceIdentifier>
@@ -10419,7 +10419,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Found by Multi Beam</S100FC:label>
-					<S100FC:definition>The depth was determined by using a wide swath echo sounder that uses multiple beams to measure depths directly below and transverse to the ship's track.</S100FC:definition>
+					<S100FC:definition>The depth was measured by using a wide swath echo sounder that uses multiple beams to measure depths directly below and transverse to the ship's track.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1072</S100FC:sourceIdentifier>
@@ -10437,7 +10437,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Found by Lead Line</S100FC:label>
-					<S100FC:definition>The depth was determined by using a line, graduated with attached marks and fastened to a sounding lead.</S100FC:definition>
+					<S100FC:definition>The depth was measured by using a line, graduated with attached marks and fastened to a sounding lead.</S100FC:definition>
 					<S100FC:code>5</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1074</S100FC:sourceIdentifier>
@@ -10738,7 +10738,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Cone (Point Down)</S100FC:label>
-					<S100FC:definition>Is where the vertex points down. A cone is a solid figure generated by straight lines drawn from a fixed point (the vertex) to a circle in a plane not containing the vertex. Cones are commonly used as International Association of Lighthouse Authorities - IALA topmarks, lateral.</S100FC:definition>
+					<S100FC:definition>Is where the vertex points down.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1125</S100FC:sourceIdentifier>
@@ -10765,7 +10765,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Cylinder</S100FC:label>
-					<S100FC:definition>A solid geometrical figure generated by straight lines fixed in direction and describing with one of point a closed curve, especially a circle (in which case the figure is circular cylinder, it's ends being parallel circles). Cylinders are commonly used as International Association of Lighthouse Authorities - IALA topmarks lateral.</S100FC:definition>
+					<S100FC:definition>A solid geometrical figure generated by straight lines fixed in direction and describing with one of point a closed curve, especially a circle (in which case the figure is circular cylinder, its ends being parallel circles).</S100FC:definition>
 					<S100FC:code>5</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1128</S100FC:sourceIdentifier>
@@ -10855,7 +10855,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Besom (Point Up)</S100FC:label>
-					<S100FC:definition>Besom: A bundle of rods or twigs. Perch: A staff placed on top of a buoy, rock or shoal as a mark for navigation. A besom, point up is where the thicker (untied) end of the besom is at the bottom.</S100FC:definition>
+					<S100FC:definition>A bundle of rods or twigs. A besom, point up is where the thicker (untied) end of the besom is at the bottom.</S100FC:definition>
 					<S100FC:code>15</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1138</S100FC:sourceIdentifier>
@@ -10864,7 +10864,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Besom (Point Down)</S100FC:label>
-					<S100FC:definition>Besom: A bundle of rods or twigs. Perch: A staff placed on top of a buoy, rock or shoal as a mark for navigation. A besom, point down is where the thinner (tied) end of the besom is at the bottom.</S100FC:definition>
+					<S100FC:definition>A bundle of rods or twigs. A besom, point down is where the thinner (tied) end of the besom is at the bottom.</S100FC:definition>
 					<S100FC:code>16</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1139</S100FC:sourceIdentifier>
@@ -10909,7 +10909,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Rectangle (Vertical)</S100FC:label>
-					<S100FC:definition>Where the two longer opposite sides are standing vertically. A rectangle is a plane figure with four right angles and four straight sides, opposite sides being parallel and equal in length.</S100FC:definition>
+					<S100FC:definition>A rectangle is a plane figure with four right angles and four straight sides, opposite sides being parallel and equal in length. A vertical rectangle is where the two longer opposite sides are standing vertically.</S100FC:definition>
 					<S100FC:code>21</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1144</S100FC:sourceIdentifier>
@@ -11219,7 +11219,7 @@
 			<S100FC:listedValues>
 				<S100FC:listedValue>
 					<S100FC:label>Mean Low Water Springs</S100FC:label>
-					<S100FC:definition>The average height of the low waters of spring tides. This level is used as a tidal datum in some areas. Also called spring low water.</S100FC:definition>
+					<S100FC:definition>The average height of the low waters of spring tides. This level is used as a tidal datum in some areas.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1185</S100FC:sourceIdentifier>
@@ -11246,7 +11246,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Lowest Low Water</S100FC:label>
-					<S100FC:definition>An arbitrary level conforming to the lowest tide observed at a place, or some what lower.</S100FC:definition>
+					<S100FC:definition>An arbitrary level conforming to the lowest tide observed at a place, or somewhat lower.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1188</S100FC:sourceIdentifier>
@@ -11327,7 +11327,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Low Water</S100FC:label>
-					<S100FC:definition>The lowest level reached at a place by the water surface in one oscillation. Also called low tide.</S100FC:definition>
+					<S100FC:definition>The lowest level reached at a place by the water surface in one oscillation.</S100FC:definition>
 					<S100FC:code>13</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1012</S100FC:sourceIdentifier>
@@ -11363,7 +11363,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Mean High Water Springs</S100FC:label>
-					<S100FC:definition>The average height of the high waters of spring tides. Also called spring high water.</S100FC:definition>
+					<S100FC:definition>The average height of the high waters of spring tides.</S100FC:definition>
 					<S100FC:code>17</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1200</S100FC:sourceIdentifier>
@@ -11622,7 +11622,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Special Purpose</S100FC:label>
-					<S100FC:definition>A special purpose aid is primarily used to indicate an area or feature, the nature of which is apparent from reference to a chart, Sailing Directions or Notice to Mariners</S100FC:definition>
+					<S100FC:definition>A special purpose aid is primarily used to indicate an area or feature, the nature of which is apparent from reference to a chart, Sailing Directions or Notice to Mariners.</S100FC:definition>
 					<S100FC:code>11</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1224</S100FC:sourceIdentifier>
@@ -11653,7 +11653,7 @@
 			<S100FC:listedValues>
 				<S100FC:listedValue>
 					<S100FC:label>Visually Conspicuous</S100FC:label>
-					<S100FC:definition>Term applied to a feature either natural or artificial which is distinctly and notably visible from seaward.</S100FC:definition>
+					<S100FC:definition>Term applied to an object either natural or artificial which is distinctly and notably visible from seaward.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1237</S100FC:sourceIdentifier>
@@ -11720,7 +11720,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Covers and Uncovers</S100FC:label>
-					<S100FC:definition>Expression intended to indicate an area of a reef or other projection from the bottom of a body of water which periodically extends above and is submerged below the surface. Also referred to as 'dries or uncovers'.</S100FC:definition>
+					<S100FC:definition>Expression intended to indicate an area of a reef or other projection from the bottom of a body of water which periodically extends above and is submerged below the surface. Also referred to as dries or uncovers.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1229</S100FC:sourceIdentifier>
@@ -20678,7 +20678,7 @@
 		</S100FC:S100_FC_FeatureType>
 		<S100FC:S100_FC_FeatureType isAbstract="false">
 			<S100FC:name>Pile</S100FC:name>
-			<S100FC:definition>A long heavy timber or section of steel, wood, concrete, etc., forced into the earth or sea floor to serve as a support, as for a pier, or to resist lateral pressure; or as a free standing pole within a marine environment.</S100FC:definition>
+			<S100FC:definition>A long heavy timber or section of steel, wood, concrete, etc., forced into the earth or seafloor to serve as a support, as for a pier, or to resist lateral pressure; or as a free standing pole within a marine environment.</S100FC:definition>
 			<S100FC:code>Pile</S100FC:code>
 			<S100FC:alias>PILPNT</S100FC:alias>
 			<S100FC:definitionReference>
@@ -26851,7 +26851,7 @@
 		</S100FC:S100_FC_FeatureType>
 		<S100FC:S100_FC_FeatureType isAbstract="false">
 			<S100FC:name>Cable Submarine</S100FC:name>
-			<S100FC:definition>An assembly of wires or fibres, or a wire rope or chain, which has been laid underwater or buried beneath the sea floor.</S100FC:definition>
+			<S100FC:definition>An assembly of wires or fibres, or a wire rope or chain, which has been laid underwater or buried beneath the seafloor.</S100FC:definition>
 			<S100FC:code>CableSubmarine</S100FC:code>
 			<S100FC:alias>CBLSUB</S100FC:alias>
 			<S100FC:alias>Submarine Cable</S100FC:alias>

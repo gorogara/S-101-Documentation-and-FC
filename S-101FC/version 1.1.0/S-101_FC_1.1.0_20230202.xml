@@ -422,7 +422,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Seaplane Anchorage</S100FC:label>
-					<S100FC:definition>An area in which sea-planes anchor or may anchor.</S100FC:definition>
+					<S100FC:definition>An area in which seaplanes anchor or may anchor.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>34</S100FC:sourceIdentifier>

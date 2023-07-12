@@ -259,7 +259,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Buried Depth</S100FC:name>
-			<S100FC:definition>The depth below the sea bed to which an object is buried.</S100FC:definition>
+			<S100FC:definition>The depth below the seabed to which an object is buried.</S100FC:definition>
 			<S100FC:code>buriedDepth</S100FC:code>
 			<S100FC:alias>BURDEP</S100FC:alias>
 			<S100FC:definitionReference>

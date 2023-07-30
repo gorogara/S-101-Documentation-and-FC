@@ -35584,7 +35584,6 @@
 				<S100FC:featureType ref="FogSignal" />
 				<S100FC:featureType ref="LightAllAround" />
 				<S100FC:featureType ref="LightFogDetector" />
-				<S100FC:featureType ref="LightSectored" />
 				<S100FC:featureType ref="PhysicalAISAidToNavigation" />
 				<S100FC:featureType ref="RadarTransponderBeacon" />
 				<S100FC:featureType ref="Retroreflector" />

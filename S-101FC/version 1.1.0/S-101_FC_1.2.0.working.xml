@@ -4,7 +4,7 @@
 	<S100FC:scope>Ocean, Coastal, Ports and Harbors. Excludes Inland waters.</S100FC:scope>
 	<S100FC:fieldOfApplication>Marine Navigation</S100FC:fieldOfApplication>
 	<S100FC:versionNumber>1.2.0</S100FC:versionNumber>
-	<S100FC:versionDate>2023-07-18</S100FC:versionDate>
+	<S100FC:versionDate>2023-07-31</S100FC:versionDate>
 	<S100FC:productId>S-101</S100FC:productId>
 	<S100FC:producer>
 		<S100CI:role>pointOfContact</S100CI:role>
@@ -34098,7 +34098,7 @@
 			<S100FC:featureUseType>geographic</S100FC:featureUseType>
 			<S100FC:featureBinding roleType="composition">
 				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
+					<S100Base:lower>1</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:association ref="StructureEquipment" />

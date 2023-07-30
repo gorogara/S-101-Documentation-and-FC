@@ -34372,13 +34372,7 @@
 				<S100FC:featureType ref="BeaconSpecialPurposeGeneral" />
 				<S100FC:featureType ref="Bridge" />
 				<S100FC:featureType ref="Building" />
-				<S100FC:featureType ref="BuoyCardinal" />
-				<S100FC:featureType ref="BuoyEmergencyWreckMarking" />
 				<S100FC:featureType ref="BuoyInstallation" />
-				<S100FC:featureType ref="BuoyIsolatedDanger" />
-				<S100FC:featureType ref="BuoyLateral" />
-				<S100FC:featureType ref="BuoySafeWater" />
-				<S100FC:featureType ref="BuoySpecialPurposeGeneral" />
 				<S100FC:featureType ref="Conveyor" />
 				<S100FC:featureType ref="Crane" />
 				<S100FC:featureType ref="Daymark" />

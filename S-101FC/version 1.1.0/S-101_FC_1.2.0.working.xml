@@ -7879,7 +7879,6 @@
 			<S100FC:definition>A statement that expresses if a coastguard station performs the function of a Maritime Rescue and Coordination Centre.</S100FC:definition>
 			<S100FC:code>isMRCC</S100FC:code>
 			<S100FC:remarks>A True value is an indication that an encoded coastguard station performs the function of a Maritime Rescue and Coordination Centre.</S100FC:remarks>
-			<S100FC:alias>Maritime Rescue and Coordination Centre</S100FC:alias>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>118</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

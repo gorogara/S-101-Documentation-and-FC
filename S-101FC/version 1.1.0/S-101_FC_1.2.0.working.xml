@@ -14566,6 +14566,7 @@
 				<S100FC:featureType ref="LightFogDetector" />
 				<S100FC:featureType ref="LightSectored" />
 				<S100FC:featureType ref="LightVessel" />
+				<S100FC:featureType ref="LocalDirectionOfBuoyage" />
 				<S100FC:featureType ref="LocalMagneticAnomaly" />
 				<S100FC:featureType ref="LockBasin" />
 				<S100FC:featureType ref="LogPond" />
@@ -14575,6 +14576,7 @@
 				<S100FC:featureType ref="MilitaryPracticeArea" />
 				<S100FC:featureType ref="MooringTrot" />
 				<S100FC:featureType ref="MooringWarpingFacility" />
+				<S100FC:featureType ref="NavigationalSystemOfMarks" />
 				<S100FC:featureType ref="NavigationLine" />
 				<S100FC:featureType ref="Obstruction" />
 				<S100FC:featureType ref="OffshorePlatform" />
@@ -14590,6 +14592,9 @@
 				<S100FC:featureType ref="PrecautionaryArea" />
 				<S100FC:featureType ref="ProductionStorageArea" />
 				<S100FC:featureType ref="PylonBridgeSupport" />
+				<S100FC:featureType ref="QualityOfBathymetricData" />
+				<S100FC:featureType ref="QualityOfNonBathymetricData" />
+				<S100FC:featureType ref="QualityOfSurvey" />
 				<S100FC:featureType ref="RadarLine" />
 				<S100FC:featureType ref="RadarRange" />
 				<S100FC:featureType ref="RadarReflector" />
@@ -14624,6 +14629,7 @@
 				<S100FC:featureType ref="SlopingGround" />
 				<S100FC:featureType ref="SmallCraftFacility" />
 				<S100FC:featureType ref="Sounding" />
+				<S100FC:featureType ref="SoundingDatum" />
 				<S100FC:featureType ref="SpanFixed" />
 				<S100FC:featureType ref="SpanOpening" />
 				<S100FC:featureType ref="Spring" />
@@ -14646,6 +14652,7 @@
 				<S100FC:featureType ref="UnderwaterAwashRock" />
 				<S100FC:featureType ref="UnsurveyedArea" />
 				<S100FC:featureType ref="Vegetation" />
+				<S100FC:featureType ref="VerticalDatumOfData" />
 				<S100FC:featureType ref="VesselTrafficServiceArea" />
 				<S100FC:featureType ref="VirtualAISAidToNavigation" />
 				<S100FC:featureType ref="WaterTurbulence" />

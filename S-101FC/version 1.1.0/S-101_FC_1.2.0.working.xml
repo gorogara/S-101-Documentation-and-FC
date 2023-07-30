@@ -7791,7 +7791,6 @@
 			<S100FC:name>Horizontal Clearance Width</S100FC:name>
 			<S100FC:definition>The width of a feature, such as a lock or basin, which is available for safe navigation. This may, or may not, be the same as the total physical width of the feature.</S100FC:definition>
 			<S100FC:code>horizontalClearanceWidth</S100FC:code>
-			<S100FC:alias>horclw</S100FC:alias>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>836</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

@@ -13954,6 +13954,15 @@
 				<S100FC:attribute ref="information" />
 			</S100FC:attributeBinding>
 			<S100FC:featureUseType>meta</S100FC:featureUseType>
+			<S100FC:featureBinding roleType="association">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:association ref="UpdatedInformation" />
+				<S100FC:role ref="updates" />
+				<S100FC:featureType ref="UpdateInformation" />
+			</S100FC:featureBinding>
 			<S100FC:permittedPrimitives>surface</S100FC:permittedPrimitives>
 		</S100FC:S100_FC_FeatureType>
 		<S100FC:S100_FC_FeatureType isAbstract="false">

@@ -11759,7 +11759,6 @@
 			<S100FC:name>Waterway Distance</S100FC:name>
 			<S100FC:definition>[1] The distance measured from an origin of a river or canal.   [2] The length of the space between two points along a waterway.</S100FC:definition>
 			<S100FC:code>waterwayDistance</S100FC:code>
-			<S100FC:alias>wtwdis</S100FC:alias>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>911</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />

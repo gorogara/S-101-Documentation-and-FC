@@ -8495,6 +8495,7 @@
 			<S100FC:definition>The individual name of a feature.</S100FC:definition>
 			<S100FC:code>name</S100FC:code>
 			<S100FC:alias>OBJNAM</S100FC:alias>
+			<S100FC:alias>NOBJNM</S100FC:alias>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>134</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
